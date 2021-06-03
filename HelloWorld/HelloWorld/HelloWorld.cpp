@@ -9,6 +9,8 @@ int main()
     std::cout << "This is my first c++ program!!!" << std::endl;
 
     std::cout << "test branch dev" << std::endl;
+
+    std::cout << "test merage dev to master" << std::endl;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
